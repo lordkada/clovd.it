@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/clovd.it/static/css/main.073c9b0a.css",
-    "main.js": "/clovd.it/static/js/main.6f784b42.js",
+    "main.js": "/clovd.it/static/js/main.45f0d3b4.js",
     "static/js/787.71e672d5.chunk.js": "/clovd.it/static/js/787.71e672d5.chunk.js",
-    "static/media/logo.svg": "/clovd.it/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/clovd.it/index.html",
     "main.073c9b0a.css.map": "/clovd.it/static/css/main.073c9b0a.css.map",
-    "main.6f784b42.js.map": "/clovd.it/static/js/main.6f784b42.js.map",
+    "main.45f0d3b4.js.map": "/clovd.it/static/js/main.45f0d3b4.js.map",
     "787.71e672d5.chunk.js.map": "/clovd.it/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6f784b42.js"
+    "static/js/main.45f0d3b4.js"
   ]
 }
